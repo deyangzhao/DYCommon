@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DYCommon"
-  s.version      = "1.0.4"
+  s.version      = "1.0.6"
   s.summary      = "Some simple macro definitions, common classes for iOS。"
 
   # This description is used to generate tags and improve search results.
@@ -94,10 +94,10 @@ Pod::Spec.new do |s|
   #Classes文件夹下的所有匹配文件
   
    #s.source_files  = "Classes", "DYCommon/*.{h,m}"
-   s.source_files  = "Classes", "DYCommon/*/**.{h,m}"
+   s.source_files = "DYCommon/*"
    #s.exclude_files = "DYCommon/Exclude"
 
-   s.public_header_files = "DYCommon/*.h"
+   #s.public_header_files = "DYCommon/DYCommon.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
