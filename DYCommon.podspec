@@ -120,7 +120,7 @@ Pod::Spec.new do |s|
   #  the lib prefix of their name.
   #
 
-  # s.framework  = "SomeFramework"
+   s.frameworks = "Foundation","UIKit","objc","Security"
   # s.frameworks = "SomeFramework", "AnotherFramework"
 
   # s.library   = "iconv"

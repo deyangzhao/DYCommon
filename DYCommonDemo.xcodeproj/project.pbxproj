@@ -174,8 +174,8 @@
 		E2A6AAF1216EE68700C8C547 /* DYKeychain */ = {
 			isa = PBXGroup;
 			children = (
-				E2A6AAF2216EE68700C8C547 /* DYKeychain.m */,
 				E2A6AAF3216EE68700C8C547 /* DYKeychain.h */,
+				E2A6AAF2216EE68700C8C547 /* DYKeychain.m */,
 			);
 			path = DYKeychain;
 			sourceTree = "<group>";
@@ -183,8 +183,8 @@
 		E2A6AAF4216EE68700C8C547 /* Font */ = {
 			isa = PBXGroup;
 			children = (
-				E2A6AAF5216EE68700C8C547 /* UIFont+Font.m */,
 				E2A6AAF6216EE68700C8C547 /* UIFont+Font.h */,
+				E2A6AAF5216EE68700C8C547 /* UIFont+Font.m */,
 			);
 			path = Font;
 			sourceTree = "<group>";
