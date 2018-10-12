@@ -153,12 +153,11 @@
 			isa = PBXGroup;
 			children = (
 				E2A6AAEC216EE68700C8C547 /* DYHeader.h */,
-				E2A6AAED216EE68700C8C547 /* DYTextFile.h */,
+				E2A6AB00217039BA00C8C547 /* DYTextFile */,
 				E2A6AAEE216EE68700C8C547 /* DYModel */,
 				E2A6AAF1216EE68700C8C547 /* DYKeychain */,
 				E2A6AAF4216EE68700C8C547 /* Font */,
 				E2A6AAF7216EE68700C8C547 /* DYPredicate */,
-				E2A6AAFA216EE68700C8C547 /* DYTextFile.m */,
 			);
 			path = DYCommon;
 			sourceTree = "<group>";
@@ -197,6 +196,15 @@
 				E2A6AAF9216EE68700C8C547 /* DYPredicate.m */,
 			);
 			path = DYPredicate;
+			sourceTree = "<group>";
+		};
+		E2A6AB00217039BA00C8C547 /* DYTextFile */ = {
+			isa = PBXGroup;
+			children = (
+				E2A6AAED216EE68700C8C547 /* DYTextFile.h */,
+				E2A6AAFA216EE68700C8C547 /* DYTextFile.m */,
+			);
+			path = DYTextFile;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
